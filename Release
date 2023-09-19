@@ -1,0 +1,8 @@
+Origin: EnderGuest's repo
+Label: EnderGuest repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: EnderGuest's Repo - a cydia repo made by Ender Guest/CideDoom.
