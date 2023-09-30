@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.linusyang.ytbnoad
+Version: 1.0
+Section: Tweaks
+Maintainer: 
+Depends: firmware (<9.3.6)
+Architecture: iphoneos-arm
+Filename: ./debs/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Size: 860
+MD5sum: 39e43deaa545fc126991b2fe2343d4c4
+Description: Removes ads in Youtube app. Requires iOS 5.0 - 9.3.5
+Name: YoutubeNoAd
+Author: Linus Yang
+Depiction: https://ender-guest.github.io/repo/depictions/?p=com.linusyang.ytbnoad
+

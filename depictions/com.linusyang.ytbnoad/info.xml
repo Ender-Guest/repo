@@ -1,0 +1,24 @@
+<package>
+    <id>com.linusyang.ytbnoad</id>
+    <name>YoutubeNoAd</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>9.3.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Removes ads in Youtube app. Requires iOS 5.0 - 9.3.5</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change> </change>
+    </changelog>
+    <links></links>
+</package>
