@@ -1,0 +1,12 @@
+Package: com.linusyang.ytbnoad
+Section: Tweaks
+Installed-Size: 344
+Maintainer: Linus Yang
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Conflicts: me.alfhaily.adblockforyoutube
+Description: remove ads in Youtube app
+Depiction: https://ender-guest.github.io/repo/depictions/?p=com.linusyang.ytbnoad
+Name: YoutubeNoAd
+Author: Linus Yang
